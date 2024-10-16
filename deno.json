@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "body-parser": "npm:body-parser@^1.20.3",
+    "express": "npm:express@^4.21.1"
+  }
+}
